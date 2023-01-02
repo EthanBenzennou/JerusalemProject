@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(rgba(247, 247, 247, 0.747), rgba(255, 255, 255, 0.767)), url(./Background\ old\ city.jpg);
+    ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#whh {
+    text-align: right;
+    text-decoration: underline;
+}
+
+#numberC,
+#numberD {
+    width: 35px;
+}
+
+.vid1 {
+    float: left;
+
+}
+
+.pic1,
+.vid1,
+.pic2 {
+    margin-right: 10px;
+    border-radius: 10px;
+    max-width: 40%;
+    border: 2px green solid;
+}
+
+#heading {
+    text-align: center;
+    border: 2mm solid blue;
+
+}

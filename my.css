@@ -1,0 +1,30 @@
+
+
+body {
+  background-image: linear-gradient(rgba(247, 247, 247, 0.815), rgba(255, 255, 255, 0.726)), url(./Background\ machane\ yehuda.jpg);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#whh {
+  text-align: right;
+  text-decoration: underline;
+}
+#link{
+  font-size: 20px;
+}
+#heading{
+  
+  border: 2px rgba(255, 0, 0, 0.575) solid;
+  position: fixed;
+  right: 33%;
+  top: 0;
+  background-color: white;
+}
+.pics{
+width: 500px;
+border: 2px blue dotted;
+margin: 2px;
+border-radius: 10px;
+
+
+}

@@ -1,0 +1,25 @@
+
+#whh {
+    text-align: right;
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgba(247, 247, 247, 0.521),rgba(255, 255, 255, 0.651)), url(./Yad-Vashem-background.jpg); ;
+}
+
+#numberC,
+#numberD {
+    width: 35px;
+}
+.pics{
+    width: 400px;
+    border: 3px black dashed;
+}
+#heading{
+    text-align: center;
+    border: 2px double;
+    border-radius: 5px;
+
+}

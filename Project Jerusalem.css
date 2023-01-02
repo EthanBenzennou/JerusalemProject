@@ -1,0 +1,47 @@
+#whh {
+    text-align: right;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgba(247, 247, 247, 0.726), rgba(255, 255, 255, 0.726)), url(./Jerusalem_background.png);
+    background-size: 100%;
+}
+
+#vid1 {
+    margin: 7px;
+    float: right;
+    border-radius: 10px;
+    max-width: 45%;
+
+
+}
+
+#aud1 {
+    border-radius: 10px;
+    background-color: brown;
+}
+
+#numberC,
+#numberD {
+    width: 35px;
+}
+
+#heading1 {
+    border: 3px black dashed;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(165, 42, 42, 0.589);
+    
+
+}
+
+#list1 {
+    font-weight: bold;
+
+}
